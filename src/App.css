@@ -1,0 +1,27 @@
+li {
+    list-style: none;
+    font-size: 16px;
+    text-decoration: none; 
+}
+
+nav {
+    background-color: #f4f4f4;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 8px;
+    background-color: #7ef2a5;
+    border: none;
+      }
+
+input {
+    border: rounded;
+    margin: 5px;
+    padding: 8px;
+}
+
+p {
+    font-size: 16px;
+}
